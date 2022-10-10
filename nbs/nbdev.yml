@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "lettre-digital-carnet"
+  site-url: "https://grasshoff.github.io/lettre-digital-carnet"
+  description: "tutorial for lettre-digital-carnet"
+  repo-branch: main
+  repo-url: "https://github.com/grasshoff/lettre-digital-carnet"
